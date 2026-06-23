@@ -56,6 +56,9 @@ Halaman pemantauan progres tugas harian yang diakses melalui ikon menu kalender 
 * **Daftar Tugas Berbasis Waktu:** Menampilkan seluruh daftar tugas (*task items*) lengkap dengan kotak centang interaktif (*checkbox*) yang diurutkan kronologis berdasarkan linimasa waktu.
 * **Tambah Tugas:** Tombol "+ TAMBAH TUGAS" di area bawah untuk memasukkan tenggat waktu atau agenda baru ke dalam manajemen linimasa.
 
+## User Interface ( UI )
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/5c4bc5cf-90f6-4745-babc-3c6eacd2758c" />
+
 ---
 
 ## 🎨 Panduan Sistem Desain (Design System Guidelines)
