@@ -75,17 +75,17 @@ Halaman pemantauan progres tugas harian yang diakses melalui ikon menu kalender 
    <img src="warna.jpeg" width="200" alt="warna">
    <img src="gantiwaarna.jpeg" width="200" alt="ganti warna">
    <img src="todolist.jpeg" width="200" alt="list">
-   <img src="listtugas.jpeg" width="200" alt="list">
-   <img src="isilist.jpeg" width="200" alt="list">
-   <img src="hasillist.jpeg" width="200" alt="list">
-   <img src="selesailist.jpeg" width="200" alt="list">
-   <img src="tambahcctn.jpeg" width="200" alt="list">
-   <img src="isicctn.jpeg" width="200" alt="list">
-   <img src="item.jpeg" width="200" alt="list">
-   <img src="hasilitem.jpeg" width="200" alt="list">
-   <img src="hasil22.jpeg" width="200" alt="list">
-   <img src="hapus.jpeg" width="200" alt="list">
-   <img src="finall.jpeg" width="200" alt="list">
+   <img src="listtugas.jpeg" width="200" alt="list tugas">
+   <img src="isilist.jpeg" width="200" alt="isi list">
+   <img src="hasillist.jpeg" width="200" alt="hasil list">
+   <img src="selesailist.jpeg" width="200" alt="selesai list">
+   <img src="tamabahcctn.jpeg" width="200" alt="tambah catatan">
+   <img src="isicctn.jpeg" width="200" alt="isi catatan">
+   <img src="itme.jpeg" width="200" alt="item">
+   <img src="hasilitem.jpeg" width="200" alt="hasil item">
+   <img src="hasil22.jpeg" width="200" alt="hasil">
+   <img src="hapus.jpeg" width="200" alt="hapus">
+   <img src="finall.jpeg" width="200" alt="finall">
 </div>
 
 ---
