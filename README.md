@@ -17,7 +17,7 @@ Berikut adalah tabel spesifikasi proyek antarmuka sesuai dengan standar dokument
 
 ---
 
-## 🧭 Alur Utama & Arsitektur Aplikasi
+## Alur Utama & Arsitektur Aplikasi
 
 Desain aplikasi ini berfokus pada kesederhanaan (*minimalism*) dan fungsionalitas tingkat tinggi tanpa mendistorsi ruang kerja utama pengguna. Alur sistem dibagi menjadi 5 komponen layar utama berikut:
 
@@ -94,7 +94,7 @@ Halaman pemantauan progres tugas harian yang diakses melalui ikon menu kalender 
 
 ---
 
-## 🎨 Panduan Sistem Desain (Design System Guidelines)
+##  Panduan Sistem Desain (Design System Guidelines)
 
 Untuk menjaga konsistensi visual dan kenyamanan mata pengguna (*Material Design*), antarmuka ini menetapkan aturan baku berikut:
 * **Tipografi:** Menggunakan rumpun font Sans-Serif bersih (*Alea Sanif / Clean Sanif*) yang memberikan keterbacaan tinggi pada layar gawai.
