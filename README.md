@@ -57,6 +57,24 @@ Halaman pemantauan progres tugas harian yang diakses melalui ikon menu kalender 
 * **Tambah Tugas:** Tombol "+ TAMBAH TUGAS" di area bawah untuk memasukkan tenggat waktu atau agenda baru ke dalam manajemen linimasa.
 
 ## User Interface ( UI )
+
+---
+
+<div align="center">
+  <img src="splash.jpeg" width="200" alt="Splash Screen">
+  <img src="loading.jpeg" width="200" alt="Loading">
+  <img src="tampilan_awal.jpeg" width="200" alt="Tampilan Awal">
+   <img src="sinkron.jpeg" width="200" alt="Dialog Sinkronisasi">
+  <img src="izin.jpeg" width="200" alt="Izin Akses">
+  <img src="daftar_kontak.jpeg" width="200" alt="Daftar Kontak">
+  <img src="tambah_kontak.jpeg" width="200" alt="Tambah Kontak">
+  <img src="ai.jpeg" width="200" alt="Pencarian Foto AI">
+   <img src="hasil.jpeg" width="200" alt="hasil">
+  <img src="detail_kontak.jpeg" width="200" alt="Detail Kontak">
+</div>
+
+---
+
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/5c4bc5cf-90f6-4745-babc-3c6eacd2758c" />
 
 ---
