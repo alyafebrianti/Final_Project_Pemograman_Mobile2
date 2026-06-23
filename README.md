@@ -63,14 +63,29 @@ Halaman pemantauan progres tugas harian yang diakses melalui ikon menu kalender 
 <div align="center">
   <img src="splash.jpeg" width="200" alt="Splash Screen">
   <img src="loading.jpeg" width="200" alt="Loading">
-  <img src="tampilan_awal.jpeg" width="200" alt="Tampilan Awal">
-   <img src="sinkron.jpeg" width="200" alt="Dialog Sinkronisasi">
-  <img src="izin.jpeg" width="200" alt="Izin Akses">
-  <img src="daftar_kontak.jpeg" width="200" alt="Daftar Kontak">
-  <img src="tambah_kontak.jpeg" width="200" alt="Tambah Kontak">
-  <img src="ai.jpeg" width="200" alt="Pencarian Foto AI">
+  <img src="halamanawal.jpeg" width="200" alt="Tampilan Awal">
+   <img src="ai.jpeg" width="200" alt="Pencarian Foto AI">
    <img src="hasil.jpeg" width="200" alt="hasil">
-  <img src="detail_kontak.jpeg" width="200" alt="Detail Kontak">
+   <img src="rubahlokasi.jpeg" width="200" alt="Lokasi">
+  <img src="hasillokasi.jpeg" width="200" alt="hasil lokasi">
+  <img src="daftarceklis.jpeg" width="200" alt="Daftar list">
+  <img src="hasilceklis.jpeg" width="200" alt="hasil ceklis">
+  <img src="hasilsemua.jpeg" width="200" alt="hasil semua">
+   <img src="sematan.jpeg" width="200" alt="sematan">
+   <img src="warna.jpeg" width="200" alt="warna">
+   <img src="gantiwaarna.jpeg" width="200" alt="ganti warna">
+   <img src="todolist.jpeg" width="200" alt="list">
+   <img src="listtugas.jpeg" width="200" alt="list">
+   <img src="isilist.jpeg" width="200" alt="list">
+   <img src="hasillist.jpeg" width="200" alt="list">
+   <img src="selesailist.jpeg" width="200" alt="list">
+   <img src="tambahcctn.jpeg" width="200" alt="list">
+   <img src="isicctn.jpeg" width="200" alt="list">
+   <img src="item.jpeg" width="200" alt="list">
+   <img src="hasilitem.jpeg" width="200" alt="list">
+   <img src="hasil22.jpeg" width="200" alt="list">
+   <img src="hapus.jpeg" width="200" alt="list">
+   <img src="finall.jpeg" width="200" alt="list">
 </div>
 
 ---
